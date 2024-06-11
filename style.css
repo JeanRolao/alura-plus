@@ -4,8 +4,8 @@
 }
 :root {
     --branco-principal: #f10a0a;
-    --cinza-secundario: #000000;
-    --botao-azul: #0016db;
+    --cinza-secundario: #5c555500;
+    --botao-azul: #db5800;
     --cor-de-fundo: #00030C;
 }
 body {
