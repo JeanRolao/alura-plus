@@ -3,9 +3,9 @@
     padding: 0;
 }
 :root {
-    --branco-principal: #f10a0a;
+    --branco-principal: #847f88;
     --cinza-secundario: #5c555500;
-    --botao-azul: #db5800;
+    --botao-azul: #847f88;
     --cor-de-fundo: #00030C;
 }
 body {
