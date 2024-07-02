@@ -73,10 +73,10 @@ body {
     display: inline-block;
     margin-top: 1em;
 }
-container__descricao {
+.container__descricao {
     padding: 2em;
 }
-dispositivos__lista {
+.dispositivos__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
